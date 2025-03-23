@@ -31,5 +31,10 @@
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.1.0",
     "typescript": "^5.3.3"
-  }
+  },
+  "description": "Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.",
+  "main": "next.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
